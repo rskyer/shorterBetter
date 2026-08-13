@@ -16,7 +16,12 @@
 
 ## 📦 Installation & Setup
 
-
+### Normal JavaScript HTML
+> Easy and Best way:
+> put this code before </body> or your <script> 
+```HTML
+<script src="https://rskyer.github.io/shorterBetter/version/latest.js"></script>
+```
 ### NodeJS or NextJS
 **Install jsdom:**
 
