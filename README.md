@@ -48,7 +48,7 @@ const dom = new JSDOM('<!DOCTYPE html><html><body></body></html>');
 global.document = dom.window.document;
 global.window = dom.window;
 
-import './model.js';
+import 'https://rskyer.github.io/shorterBetter/version/latest.js';
 
 // Use the utilities!
 const elements = getElementsById('id1', 'id2');
