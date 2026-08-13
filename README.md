@@ -16,6 +16,8 @@
 
 ## 📦 Installation & Setup
 
+
+### NodeJS or NextJS
 **Install jsdom:**
 
 ```bash
