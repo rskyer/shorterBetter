@@ -18,7 +18,7 @@
 
 ### Normal JavaScript HTML
 > Easy and Best way:
-> put this code before </body> or your <script> 
+> put this code before `</body>` or your `<script> `
 ```HTML
 <script src="https://rskyer.github.io/shorterBetter/version/latest.js"></script>
 ```
